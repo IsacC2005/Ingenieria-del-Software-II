@@ -1,0 +1,20 @@
+___Permisos para gestionar usuarios____
+Crear Usuario
+Ver Usuarios
+Eliminar Usuario
+Eliminar Usuario cualquiera
+Suspender Usuario
+
+___Permisos de gestion____
+Agregar Lavadora
+Quitar Lavadora
+Modificar Lavadora
+Ver lavadoras
+ver historial de contratos propio
+ver hisotorial de contratos cualquiera
+
+___Permisos para contratar___
+Alquilar lavadora propio
+ALquilar lavadora cualquiera
+Supender pedido propio
+Suspender pedido cualquiera
